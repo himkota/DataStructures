@@ -2,7 +2,7 @@ package com.himanshu.linkedlist;
 
 public class SingleLinkedList<T> {
 	
-	SllNode<T> headNode;
+	public SllNode<T> headNode;
 	
 	public SingleLinkedList() {
 		headNode = null;
