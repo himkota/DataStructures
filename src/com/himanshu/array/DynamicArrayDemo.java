@@ -1,6 +1,5 @@
-package com.himanshu;
+package com.himanshu.array;
 
-import com.himanshu.array.DynamicArray;
 
 public class DynamicArrayDemo {
 

@@ -1,4 +1,4 @@
-package com.himanshu;
+package com.himanshu.array;
 
 public class TwoDArrayImpl {
 	public static void main(String[] args) {

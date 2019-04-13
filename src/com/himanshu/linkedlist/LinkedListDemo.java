@@ -1,6 +1,5 @@
-package com.himanshu;
+package com.himanshu.linkedlist;
 
-import com.himanshu.linkedlist.SingleLinkedList;
 
 public class LinkedListDemo {
 
