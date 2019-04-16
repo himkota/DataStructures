@@ -31,6 +31,7 @@ public class StackUsingDynamicArray<T> {
 	}
 	private void ensureSize(int minCapacity){
 		int oldCapacity = getSize();
+		
 		if(oldCapacity<minCapacity){
 			int newCapacity = oldCapacity * 2;
 			if(newCapacity<minCapacity)

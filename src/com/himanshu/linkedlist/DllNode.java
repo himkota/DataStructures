@@ -1,9 +1,9 @@
 package com.himanshu.linkedlist;
 
 public class DllNode<T> {
-	T value;
-	DllNode<T> next;
-	DllNode<T> previous;
+	public T value;
+	public DllNode<T> next;
+	public DllNode<T> previous;
 	
 	public DllNode(T t){
 		this.value = t;
