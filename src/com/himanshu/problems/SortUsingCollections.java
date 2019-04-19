@@ -36,6 +36,7 @@ class Person implements Comparable<Person>{
 	
 	@Override
 	public int compareTo(Person p) {
-		return this.age-p.age;
+		return this.name.compareTo(p.name);
+		//return this.age-p.age;
 	}
 }
