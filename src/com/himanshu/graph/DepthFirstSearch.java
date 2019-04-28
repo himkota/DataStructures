@@ -2,10 +2,10 @@ package com.himanshu.graph;
 
 import java.util.Stack;
 
-public class DepthFirstSearchClass {
+public class DepthFirstSearch {
 int size;
 AdjacentList[] array;
-	public DepthFirstSearchClass(int size) {
+	public DepthFirstSearch(int size) {
 		this.size = size;
 		array = new AdjacentList[this.size];
 		for(int i =0; i< this.size;i++){
